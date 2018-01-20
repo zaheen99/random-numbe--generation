@@ -1,0 +1,91 @@
+﻿
+A cryptocurrency is a digital asset designed to work as a medium of exchange that uses cryptograp
+hy to secure its transactions,to control the creation of additional units, and 
+to verify the transfer of assets.Cryptocurrency is classified as a subset of alternative currencies and virtual currencies. There are various cryptocurrencies-
+
+Bitcoin, created in 2009, was the first decentralized cryptocurrency. It used SHA-256, a cryptographic hash function, as its proof-of-work scheme.
+                            CHANGE IN %                           
+                      
+1-Bitcoin-         11.50, 10.88, 10.25, 8.54, 5.58, 4.92, 4.92
+
+2-Ethereum         13.57, 13.10, 11.64, 9.42, 6.55, 5.85, 5.02
+
+3-Ripple           46.19, 46.72, 43.21, 39.21, 31.33,31.36,  28.03
+
+4-Bitcoin cash     15.48, 14.88, 13.26, 11.25, 7.52, 6.56, 6.18
+
+5-Cardano          20.09, 18.52, 16.98, 14.46, 9.08,  7.19,6.95
+
+6-litecoin         15.01, 14.22, 12.83, 10.61, 6.14, 5.83, 4.35
+
+7-NEM              25.01, 23.56, 20.18, 18.16, 12.46, 12.44, 10.66
+
+8-NEO              25.14, 10.98, 10.32, 7.39, 2.15, 1.41, 1.04
+ 
+9-Steller          11.79, 29.41, 28.27, 26.13, 22.73, 14.57, 13.18, 11.98 
+  
+10-EOS             16.67,26.91,25.46,20.85,14.05,10.84,7.91
+
+11-IOTA            14.59, 13.73, 11.78, 8.36, 4.33,3.92, 2.87          
+ 
+12-Dash            14.23, 13.93, 13.62, 12.52, 9.85, 9.05,8.19
+
+13-Manero          16.57, 16.01,15.19,12.62,6.93,6.02
+
+14-TRON            29.67, 26.91, 25.46, 20.85, 14.01, 10.84, 7.91
+
+15-ICON            25.41, 25.48, 23.39,19.98, 14.30, 12.10
+
+16-Bitcoin gold    13.87, 13.67, 12.68,11.12, 9.46, 8.45
+
+17-Ethereum classic 15.17,15.25,14.45, 13.94, 12.24, 7.84,6.30
+
+18-Qtum             16.00, 15.99, 14.48, 11.82, 8.36, 7.16
+
+19-LISK             20.00,19.01,16.45, 13.59, 7.92, 6.45
+
+20-RaiBlocks        26.70, 26.68, 25.42, 24.82, 17.64, 16.58
+
+22-VeChain          32.41,32.88,30.40,29.66,23.56,21.52         
+ 
+23-OmisGo          15.74, 15.03,13.28, 10.14, 6.23,5.26
+
+24-Zcash           12.48, 12.73,11.35, 8.18,4.49,3.50
+
+25-Verge            50.47, 50.49, 46.98, 46.34, 35.99, 32.47
+
+26-Tether           0.79, 0.81, 18.29, 14.88, -0.59 ,-0.009
+
+27-Binance Coin      16.31, 16.14, 14.03, 11.34, 5.50, 4.68
+
+28-Stratis         16.07, 14.80, 13.45, 10.29, 5.26, 3.30
+
+29-Siacoin        20.67, 20.44, 17.87, 15.77, 12.84, 11.45
+30-Bytecoin         30.59, 29.45, 27.71, 23.13, 15.75, 13.72
+
+
+31-Ardor           10.98, 10.19, 9.45, 97.75, -1.23, -3.74
+
+32-Steem           18.10, 17.85, 16.30, 14.19, 9.24, 8.14
+
+33-Status          20.23, 19.08, 16.40, 13.82, 9.30, 7.67      
+
+34-Bitshares       24.43, 23.21, 22.96, 20.76, 12.03
+
+35-Maker           62.68, 14.09, 49.73, 57.54, 37.97, 36.45
+36-Augur          
+37-Ox              23.50,15.06, 22.34, 20.49, 16.13, 14.80
+
+38-KuCoin shares   17.32, 57.74, 11.43, 9.51, 0.18, -1.49
+
+39-Waves           12.92, 12.16, 11.62, 9.36,, 5.87, 4.50
+
+40-Dogecoin        25.29, 24.54, 23.51, 20.36, 12.54
+
+
+All these are the cryptocurrency
+
+from above data ,there are some currency their graph sudden increase and decrease and goes to negative to these type of currency is not profitable there names are-KuCoin shares,Ardor,Tether,
+.NEO,IOTA etc. 
+some currencies there graph almost constant and some having minor changes. In bitcoin,etherum ,ox
+Ripple etc these currencies are profitable.
